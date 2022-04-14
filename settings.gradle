@@ -1,0 +1,2 @@
+rootProject.name = "Iril Audio Test"
+include ':app'

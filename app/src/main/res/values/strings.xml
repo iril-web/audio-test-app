@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Iril Audio Test</string>
+    <string name="notification_channel_name">Playback</string>
+    <string name="notification_channel_description">Playback notification</string>
+    <string name="notification_play_text">Play</string>
+    <string name="notification_pause_text">Pause</string>
+</resources>
